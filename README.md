@@ -1,10 +1,10 @@
-### Hey there!👋 I'm Andrew 🐶👤
+### Hey there! I'm Andrew ☺️
 
 <hr>
 
 I'm a Singaporean student full-stack web and app developer who loves to work on passion projects and bring incredible ideas to life digitally. 
 
-And I also realllllly love Rottweilers ❤️.
+And I also realllllly love Rottweilers 🐶 ❤️.
 
 #### 📊 Stats 
 
