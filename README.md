@@ -4,9 +4,9 @@
 
 I'm a Singaporean student full-stack web and app developer who loves to work on passion projects and bring incredible ideas to life digitally. 
 
-And I also realllllly love Rottweilers 🐶 ❤️.
+And I also realllllly love Rottweilers 🐶❤️ (Just thought you should know).
 
-#### 📊 Stats 
+### 📊 Stats 
 
 <hr>
 
